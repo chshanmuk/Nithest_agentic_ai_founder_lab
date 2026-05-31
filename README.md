@@ -128,7 +128,7 @@ Alternatively, you can:
   ```json
   {
     "name": "Shanmuk",
-    "age": "34",
+    "age": "30",
     "goal": "Build a successful AI startup",
     "struggle": "Lack of consistency",
     "oneYearVision": "Running a profitable AI company",
@@ -160,7 +160,7 @@ Alternatively, you can:
   ```json
   {
     "userProfile": {
-      "name": "Nitish",
+      "name": "Shanmuk",
       "age": "23",
       "goal": "Build a successful AI startup",
       "struggle": "Lack of consistency",
